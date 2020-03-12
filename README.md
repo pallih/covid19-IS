@@ -8,4 +8,4 @@ Engir útreikningar eru framkvæmdir, einungis tölur úr stöðuskýrslunum.
 
 Ekki treysta innslættinum hérna í blindni. **Skoðaðu frumheimildina og berðu saman**. Ef þú finnur villur þá væri pull-requests eða póstur til pallih at gogn.in vel þegið.
 
-
+Nýjust tölur hér eru síðan: 11. mars, 2020
